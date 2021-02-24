@@ -24,11 +24,11 @@ npm start
 ## API Endpoint
 | METHOD | ENDPOINT | Description |
 | ------ | ------ | ------ |
-| GET | http://{yourhost}:8000/api/contacts | GET ALL Book |
-| GET | http://{yourhost}:8000/api/contact/{id} | GET ONE Book  |
-| POST | http://{yourhost}:8000/api/contact | CREATE Book |
-| PUT | http://{yourhost}:8000/api/contact/{id} | UPDATE Book |
-| DELETE | http://{yourhost}:8000/api/contact/{id} | DELETE Book |
+| GET | http://{yourhost}:8000/api/contacts | GET ALL Contacts |
+| GET | http://{yourhost}:8000/api/contact/{id} | GET ONE Contact  |
+| POST | http://{yourhost}:8000/api/contact | CREATE Contact |
+| PUT | http://{yourhost}:8000/api/contact/{id} | UPDATE Contact |
+| DELETE | http://{yourhost}:8000/api/contact/{id} | DELETE Contact |
 
 ## Postman Collection
 File on Directory demo/postman
